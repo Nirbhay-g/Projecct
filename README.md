@@ -1,2 +1,2 @@
-# Projecct
+# Project
 AI ML  and Data Analysis Project
